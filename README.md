@@ -5,7 +5,7 @@ sudo apt install xorg stterm suckless-tools build-essential libx11-dev libxinera
 ```
 
 ```bash
-sudo apt install build-essential libx11-dev libxinerama-dev sharutils libgd-dev libxft-dev
+sudo apt install build-essential libx11-dev libxinerama-dev sharutils libgd-dev libxft-dev libharfbuzz-dev
 ```
 ###atau 
 
